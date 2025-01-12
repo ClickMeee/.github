@@ -1,5 +1,23 @@
 # Click Meee
 
+## 팀
+1. 창의
+    - github action으로 프론트(react-vite) 및 백엔드(spring boot) 배포 자동화
+    - spring stomp를 사용하여 게임 로직 구현
+    - tailwind를 활용해 css 디자인
+    - 홈 서버(ubuntu)에 ssh server, ipTime으로 80, 443 포트를 홈 서버로 포트포워딩
+    - 도메인 등록
+2. 지후
+    - 프론트엔드 아키텍처 설계, 웹소켓 연결, 게임 준비 페이지
+3. 상현
+    - 프론트엔드 아키텍처 설계,  웹소켓 관리, 게임 진행 및 결과 페이지 구현
+  
+| [창의](https://github.com/changuii) | [상현](https://github.com/idealHyun) | [지후](https://github.com/jihukimme) |
+|:-:|:-:|:-:|
+| <img src="https://avatars.githubusercontent.com/u/122252160?v=4" width="320px" height="320px"> | <img src="https://avatars.githubusercontent.com/u/118160647?v=4" width="320px" height="320px"> | <img src="https://avatars.githubusercontent.com/u/127816292?v=4" width="320px" height="320px"> |
+|[![My Skills](https://skillicons.dev/icons?i=react,ts,vite,tailwind,spring,nginx,docker,ubuntu&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react,ts,vite,tailwind&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react,ts,vite,tailwind&perline=4)](https://skillicons.dev) |
+
+
 ## 서비스 아키텍처
 
 ![service-architecture](./assets/service-architecture.webp)
